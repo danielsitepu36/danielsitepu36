@@ -1,4 +1,11 @@
-### Hi there 👋
+## 👋 Hi there 👋
+##### You can call me Daniel, nice to meet you ^^
+
+## 👇 Check out my GitHub Stats here 👇
+<p float="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielsitepu36&show_icons=true&theme=tokyonight" height=150px/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsitepu36&theme=tokyonight&layout=compact&exclude_repo=Assembly-as-the-relic" height=150px/>
+</p>
 
 <!--
 **danielsitepu36/danielsitepu36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
