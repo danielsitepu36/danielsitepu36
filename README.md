@@ -3,8 +3,8 @@
 
 ## 👇 Check out my GitHub Stats here 👇
 <p float="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielsitepu36&show_icons=true&theme=tokyonight" height=200px/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsitepu36&theme=tokyonight&layout=compact&exclude_repo=Assembly-as-the-relic" height=200px/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielsitepu36&show_icons=true&theme=tokyonight" height=180px/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsitepu36&theme=tokyonight&layout=compact&exclude_repo=Assembly-as-the-relic" height=180px/>
 </p>
 
 <!--
