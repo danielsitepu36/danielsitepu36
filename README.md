@@ -1,5 +1,6 @@
 ## 👋 Hi there 👋
-##### You can call me Daniel, nice to meet you ^^
+You can call me Daniel, nice to meet you ^^\
+Public Relation Manager at OmahTI UGM (Organisasi Mahasiswa Ahli Teknologi Informasi)
 
 ## 👇 Check out my GitHub Stats here 👇
 <p float="left">
