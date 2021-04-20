@@ -1,6 +1,7 @@
 ## 👋 Hi there 👋
 You can call me Daniel, nice to meet you ^^\
-Public Relation Manager at OmahTI UGM (Organisasi Mahasiswa Ahli Teknologi Informasi)
+React Web Developer at N202 Innovation Hub
+Machine Learning Student at Bangkit Academy 2021
 
 ## 👇 Check out my GitHub Stats here 👇
 <p float="left">
