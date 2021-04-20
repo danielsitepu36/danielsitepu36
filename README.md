@@ -1,6 +1,6 @@
 ## 👋 Hi there 👋
 You can call me Daniel, nice to meet you ^^\
-React Web Developer at N202 Innovation Hub
+React Web Developer at N202 Innovation Hub\
 Machine Learning Student at Bangkit Academy 2021
 
 ## 👇 Check out my GitHub Stats here 👇
