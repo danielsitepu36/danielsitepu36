@@ -1,9 +1,14 @@
 ## 👋 Hi there 👋
 You can call me Daniel, nice to meet you ^^\
-React Web Developer at N202 Innovation Hub\
-Machine Learning Student at Bangkit Academy 2021
 
-## 👇 Check out my GitHub Stats here 👇
+----
+Computer Science Student at Gadjah Mada University, Indonesia\
+React Web Developer at Kalbe Nutritionals\
+Web Developer at YLabs Indonesia\
+Machine Learning Graduate at Bangkit Academy 2021
+
+----
+### 👇 GitHub Stats 👇
 <p float="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielsitepu36&show_icons=true&theme=tokyonight" height=180px/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsitepu36&theme=tokyonight&layout=compact&exclude_repo=Assembly-as-the-relic" height=180px/>
