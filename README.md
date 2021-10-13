@@ -1,5 +1,5 @@
 ## 👋 Hi there 👋
-You can call me Daniel, nice to meet you ^^\
+You can call me Daniel, nice to meet you ^^
 
 ----
 Computer Science Student at Gadjah Mada University, Indonesia\
