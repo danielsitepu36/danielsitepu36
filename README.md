@@ -2,10 +2,8 @@
 You can call me Daniel, nice to meet you ^^
 
 ----
-Computer Science Student at Gadjah Mada University, Indonesia\
-React Web Developer at Kalbe Nutritionals\
-Web Developer at YLabs Indonesia\
-Machine Learning Graduate at Bangkit Academy 2021
+Final Year Computer Science Student at Gadjah Mada University, Indonesia\
+Web Developer | Machine Learning Graduate at Bangkit Academy 2021
 
 ----
 ### 👇 GitHub Stats 👇
